@@ -1,0 +1,24 @@
+body {
+    width: 500px;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #33B0DA;
+
+}
+
+.button {
+    padding: 10px 0 10px 0;
+}
+
+.resultText {
+    padding-left: 10px;
+    margin-bottom: 5px;
+    size: 20px;
+    font-weight: bold;
+}
+
+#infoBtn{
+    padding-left: 250px;
+}

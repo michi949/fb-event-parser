@@ -1,0 +1,37 @@
+{
+  "name": "Festly Parser",
+  "version": "1.0",
+  "description": "It´s an Parser for Events in Facebook, copyright -> michael reder the use of it is only allowed with permission of michael reder",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "tabs",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": [
+      "background.js",
+      "jquery.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "128": "128_blau.png"
+  },
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "128_blau.png"
+  },
+  "manifest_version": 2
+}
