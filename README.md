@@ -35,6 +35,5 @@ After loading try to build and run it!
 
 ## Acknowledgments
 
-* Was an own projekt because of interrest, dont use it!
-* No support for that scam.
+* Was an own projekt because of interrest, dont use it for criminal aspects. 
 
