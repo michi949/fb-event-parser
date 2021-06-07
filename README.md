@@ -1,5 +1,5 @@
 # fb-event-parser
-A chrome extension to parse event information from an facebook event.
+A chrome extension to parse event information from a facebook event.
 
 ## Getting Started
 
@@ -11,9 +11,9 @@ https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/
 
 ### Using
 
-After installed the extension, open now some Facebook events. Then click in the extension on parse and it will parse every open facebook event site!
+After installing the extension, open now some Facebook events. Then click in the extension on parse and it will parse every open facebook event site!
 
-You may not get every event, because facebook use alot of tags. So it is difficult to parse every HTML Tag. Also they may change the tags after times. 
+You may not get every event, because facebook use a lot of tags. So it is difficult to parse every HTML Tag. Also they may change the tags after times. 
 
 ### Prerequisites
 
@@ -35,5 +35,5 @@ After loading try to build and run it!
 
 ## Acknowledgments
 
-* Was an own projekt because of interrest, dont use it for criminal aspects. 
+* Was an own project because of interest, don't use it for criminal aspects. 
 
