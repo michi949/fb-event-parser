@@ -1,7 +1,7 @@
 {
   "name": "Parser",
   "version": "1.0",
-  "description": "It´s an Parser for Events in Facebook, copyright -> michael reder the use of it is only allowed with permission of michael reder",
+  "description": "It´s an Parser for Events in Facebook, copyright -> michael reder",
   "permissions": [
     "storage",
     "activeTab",

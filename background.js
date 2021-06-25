@@ -2,7 +2,6 @@
  * @author michael reder
  * @copyright michael reder
  * tool to get events from facebook into a json file to use it in other apps
- * the use of it is only allowed with permission of michael reder
  */
 
 var objArray;
